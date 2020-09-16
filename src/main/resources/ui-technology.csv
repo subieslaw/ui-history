@@ -51,5 +51,10 @@ web 1,1990,event, start of web
 web 2,2000,event,  dynamic html js css dom
 knockout,,,
 rest,2000,design,api design
-
-
+www,1990,technology, first web browser
+http 0.9,1991,technology, protocol specification    
+W3C.org,1994,standards,World Wide Web Consortium (W3C)  
+amazon,1995,company,page launched   
+ie,1995,browser, first version of internet explorer
+js,1995,language,JavaScript 1.0
+asp,1996,language, ASP 1.0
