@@ -58,3 +58,21 @@ amazon,1995,company,page launched
 ie,1995,browser, first version of internet explorer
 js,1995,language,JavaScript 1.0
 asp,1996,language, ASP 1.0
+css,1996,language specification, css 1.0
+macromedia flash,1996,flash,Macromedia Flash 1.0
+HTML 3.2,1997,html, <center>, <div>, <font>, <script>, <style>
+dhtml,1997,html, combination of the HTML, CSS, and JavaScript
+css2,1998,css, CSS2
+google,1998,company, founding
+web 2.0,1999, web, term introduction
+php 4.0,2000,php,PHP 4.0 and Zend Engine
+wikipedia,2001,web,founded
+ie 6.0,2001,ie, integrated with xp
+wordpress 0.7,2003,cms, WordPress is currently the most popular content management system
+sass 0-1-0,2006,sass, Syntactically awesome style sheets
+iphone,2007,technology apple,Steve Jobs introduced the first iPhone smartphone model
+CSS Grid,2007,css, W3C released the first proposal of the CSS Grid specification
+less 1.0,2009,less, Alexis Sellier designed a CSS preprocessor called Less 1.0
+Google Web Fonts,2010,google,Google Web Fonts
+Responsive Web Design,2010,practice,Web designer Ethan Marcotte published an article entitled "Responsive Web Design"
+HTML5,2014,html, W3C adopted the final recommendation for the HTML5 markup language
